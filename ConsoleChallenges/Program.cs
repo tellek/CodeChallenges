@@ -12,7 +12,7 @@ namespace ConsoleChallenges
             //fb.ThirdTry(25);
             //fb.FourthTry(25);
             //WordSearch.Go();
-            Qwerty.Go("wweigzi");
+            Qwerty.Go("woordy");
         }
     }
 }

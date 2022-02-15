@@ -13,11 +13,11 @@ namespace ConsoleChallenges
 
         public static void Go(string word)
         {
-            var grid = new char[3, 9]
+            var grid = new char[3, 10]
             {
-                { 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o' },
-                { 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l' },
-                { 'z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.' },
+                { 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p' },
+                { 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';' },
+                { 'z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.', '/' },
             };
             yMax = grid.GetLength(0);
             xMax = grid.GetLength(1);
