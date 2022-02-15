@@ -11,8 +11,8 @@ namespace ConsoleChallenges
             //fb.SecondTry(25);
             //fb.ThirdTry(25);
             //fb.FourthTry(25);
-            WordSearch.Go();
-
+            //WordSearch.Go();
+            Qwerty.Go("wweigzi");
         }
     }
 }
